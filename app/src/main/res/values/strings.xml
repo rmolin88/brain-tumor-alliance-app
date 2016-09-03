@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Brain Tumor Alliance App</string>
+    <string name="app_name">Brain Tumor Alliance Event</string>
     <string name="where">Where:</string>
     <string name="where_ans">Coachman Park</string>
     <string name="when">When:</string>
