@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Brain Tumor Alliance App</string>
+    <string name="where">Where:</string>
+    <string name="where_ans">Coachman Park</string>
+    <string name="when">When:</string>
+    <string name="when_ans1">7:30am - Cycle Event Begins</string>
+    <string name="when_ans2">8:00am - 5k/10k, Team Relay and Dual Challenge (which begins with 5k run and then bike transition).</string>
+    <string name="when_ans3">10:00am - One Mile Walk Begins</string>
+    <string name="pre_packet">PRE-PACKET PICK UP</string>
+    <string name="pre_packet_ans1">SEPTEMBER 15 AT CHAINWHEEL DRIVE 1770 DREW ST. CLEARWATER</string>
+    <string name="pre_packet_ans2">FRIDAY, SEPTEMBER 16 AT COACHMAN PARK FROM 11:00 TO 1:00PM, 301 DREW STREET, CLEARWATER</string>
+    <string name="packet">PACKET PICK UP</string>
+    <string name="packet_ans">SATURDAY, SEPTEMBER 17 STARTING AT 6:30AM AT COACHMAN PARK, 301 DREW STREET CLEARWATER</string>
+</resources>
