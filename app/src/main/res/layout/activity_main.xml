@@ -160,6 +160,44 @@
                     android:layout_marginTop="@dimen/activity_top_margin"
                     android:text="@string/packet_ans"
                     />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/activity_top_margin"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:layout_marginLeft="@dimen/activity_vertical_margin"
+                    android:text="@string/about_us"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/indent"
+                    android:layout_marginTop="@dimen/activity_top_margin"
+                    android:text="@string/about_us_ans"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/activity_top_margin"
+                    android:textStyle="bold"
+                    android:textSize="16dp"
+                    android:layout_marginLeft="@dimen/activity_vertical_margin"
+                    android:text="@string/contact_us"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/indent"
+                    android:layout_marginTop="@dimen/activity_top_margin"
+                    android:text="@string/contact_us_ans"
+                    android:layout_marginBottom="@dimen/activity_top_margin"
+                    />
+
             </LinearLayout>
         </LinearLayout>
     </ScrollView>

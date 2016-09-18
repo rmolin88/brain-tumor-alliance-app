@@ -11,4 +11,10 @@
     <string name="pre_packet_ans2">FRIDAY, SEPTEMBER 16 AT COACHMAN PARK FROM 11:00 TO 1:00PM, 301 DREW STREET, CLEARWATER</string>
     <string name="packet">PACKET PICK UP</string>
     <string name="packet_ans">SATURDAY, SEPTEMBER 17 STARTING AT 6:30AM AT COACHMAN PARK, 301 DREW STREET CLEARWATER</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_ans">Through our work, we aim to raise awareness and funds for 
+        brain cancer research while helping those suffering with a brain tumor have a 
+        better quality of life.</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_us_ans">727 781-4673</string>
 </resources>
