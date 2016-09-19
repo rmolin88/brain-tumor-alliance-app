@@ -194,6 +194,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="@dimen/indent"
                     android:layout_marginTop="@dimen/activity_top_margin"
+                    android:autoLink="phone"
                     android:text="@string/contact_us_ans"
                     android:layout_marginBottom="@dimen/activity_top_margin"
                     />
